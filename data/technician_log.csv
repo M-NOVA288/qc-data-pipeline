@@ -1,0 +1,33 @@
+batch_id,stage,metric,value,unit,technician,timestamp
+B-24101,MIX,viscosity,452,cP,jreyes,2026-10-20 07:10
+B-24101,MIX,temperature,68.2,C,jreyes,2026-10-20 07:12
+B-24101,CURE,temperature,151.0,C,akim,2026-10-20 09:40
+B-24101,CURE,hardness,62,ShoreD,akim,2026-10-20 11:05
+B-24101,PACK,weight,25.02,kg,lnguyen,2026-10-20 13:30
+B-24101,PACK,moisture,0.21,pct,lnguyen,2026-10-20 13:31
+B-24102,MIX,viscosity,447,cP,jreyes,2026-10-20 07:45
+B-24102,MIX,temperature,67.5,C,jreyes,2026-10-20 07:47
+B-24102,CURE,temperature,149.8,C,akim,2026-10-20 10:15
+B-24102,CURE,hardness,61,ShoreD,akim,2026-10-20 11:40
+B-24102,PACK,weight,24.97,kg,lnguyen,2026-10-20 14:02
+B-24102,PACK,moisture,0.19,pct,lnguyen,2026-10-20 14:03
+B-24103,MIX,viscosity,4580,cP,tbrooks,2026-10-21 07:05
+B-24103,MIX,temperature,69.0,C,tbrooks,2026-10-21 07:06
+B-24103,CURE,temperature,152.3,C,akim,2026-10-21 09:50
+B-24103,CURE,hardness,52,ShoreD,akim,2026-10-21 11:20
+B-24103,PACK,weight,25.10,kg,lnguyen,2026-10-21 13:44
+B-24103,PACK,moisture,,pct,lnguyen,2026-10-21 13:45
+B-24104,MIX,viscosity,459,cP,jreyes,2026-10-21 08:00
+B-24104,MIX,temperature,"66,9",C,jreyes,2026-10-21 08:01
+B-24104,CURE,temperature,150.4,C,akim,2026-10-21 10:30
+B-24104,CURE,hardness,63,ShoreD,akim,2026-10-21 12:00
+B-24104,PACK,weight,25.04,kg,lnguyen,2026-10-21 14:20
+B-24104,PACK,moisture,0.22,pct,lnguyen,21/10/2026 14:21
+B-24105,MIX,viscosity,449,cP,jreyes,2026-10-22 07:15
+B-24105,MIX,temperature,67.9,F,jreyes,2026-10-22 07:16
+B-24105,CURE,temperature,163.5,C,akim,2026-10-22 09:55
+B-24105,CURE,hardness,60,ShoreD,akim,2026-10-22 11:30
+B-24105,COAT,thickness,1.2,mm,akim,2026-10-22 12:10
+B-24105,PACK,weight,24.99,kg,lnguyen,2026-10-22 13:50
+B-24105,PACK,moisture,0.20,pct,lnguyen,2026-10-22 13:51
+B-24105,PACK,weight,25.01

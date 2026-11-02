@@ -1,0 +1,7 @@
+stage,metric,unit,min,max
+MIX,viscosity,cP,400,520
+MIX,temperature,C,60,75
+CURE,temperature,C,140,160
+CURE,hardness,ShoreD,55,70
+PACK,weight,kg,24.5,25.5
+PACK,moisture,pct,0,0.5
